@@ -1,5 +1,5 @@
-# :tv: 5,876,639 movies
-### :date: 2021-06-29 15:02:57
+# :tv: 5,897,260 movies
+### :date: 2021-07-06 15:04:21
 #### Netlify
 - <a href='https://title-episode.netlify.app/index.html' target='_blank'>https://title-episode.netlify.app/index.html</a>
 - <a href='https://title-episode.netlify.app/index.json' target='_blank'>https://title-episode.netlify.app/index.json</a>
